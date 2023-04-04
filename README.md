@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=60&section=header&text=Seoin%20&fontSize=70&animation=blink&fontAlign=12&fontAlignY=60)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=SeoinArt&show_icons=true&theme=radical)](https://github.com/SeoinArt)
-Here are some ideas to get you started:
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoinArt)](https://github.com/SeoinArt/github-readme-stats)
 
